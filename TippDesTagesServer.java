@@ -45,10 +45,5 @@ public class TippDesTagesServer {
         return tippListe[random];
     }
 
-    public static void main(String[] args)
-    {
-        TippDesTagesServer server = new TippDesTagesServer();
-        server.los();
-    }
 }
 
